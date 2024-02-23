@@ -13,7 +13,7 @@ Gobblet Gobblers redefineste clasicul X și 0, aducând o dimensiune nouă jocul
 ## Caracteristici
 
 + Proiectul ofera doua variante de joc :
-  -player vs player
+  - player vs player
   - player vs computer
 + Pentru a doua varianta de joc, computerul nu doar isi prioritizeaza propria victorie, ci isi si ajusteaza strategia pentru a impiedica adversarul să castige.
 + Computerul cuprinde implementarea urmatoarelor miscari :
