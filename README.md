@@ -1,5 +1,4 @@
 # Gobblet Gobblers
-***
 
 ## Descriere Proiect
 ---
